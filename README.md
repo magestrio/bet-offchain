@@ -18,7 +18,7 @@ tsc && node ./build/src/offchainStorage.js
 - (UI) https://github.com/magestrio/bet-app-zk-ui
 - (Smart Contracts) https://github.com/magestrio/bet-app-zk-contracts
 - (Oracle) https://github.com/magestrio/bet-oracle
-- (Off-chain) https://github.com/magestrio/bet-offchain
+- (Off-chain) https://github.com/magestrio/bet-offchain (you are here)
 
 ## License
 
